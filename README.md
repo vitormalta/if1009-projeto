@@ -4,7 +4,7 @@ Este repositório contém todo o material desenvolvido para o projeto da discipl
 
 ## 🎯 Objetivo do Projeto
 
-[cite_start]O projeto consiste em um estudo empírico exploratório e comparativo com o objetivo de avaliar e comparar os impactos da adoção das práticas de **Test-Driven Development (TDD)** e **Behavior-Driven Development (BDD)** no processo de desenvolvimento de software.
+O projeto consiste em um estudo empírico exploratório e comparativo com o objetivo de avaliar e comparar os impactos da adoção das práticas de **Test-Driven Development (TDD)** e **Behavior-Driven Development (BDD)** no processo de desenvolvimento de software.
 
 Buscamos responder às seguintes questões:
 * Qual abordagem resulta em maior qualidade de código, medida por métricas como cobertura de testes?
@@ -25,8 +25,8 @@ Todos os materiais utilizados e gerados no projeto estão disponíveis neste rep
 
 ## 👥 Equipe
 
-* Guilherme Caio
-* Júlio Bem
-* Maria Luísa Mendes
-* Mateus Nepomuceno
-* Vitor Malta
+* Guilherme Caio - gcpr@cin.ufpe.br
+* Júlio Bem - jcsb2@cin.ufpe.br
+* Maria Luísa Mendes - mlmsp@cin.ufpe.br
+* Mateus Nepomuceno - mnss@cin.ufpe.br
+* Vitor Malta - vmm3@cin.ufpe.br
